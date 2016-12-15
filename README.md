@@ -8,10 +8,10 @@ Blablabla
 
 ## Inhaltsverzeichniss
 
-1. [Kapitel 1](#Kapitel-1)
-1. [Kapitel 2](#Kapitel-2)
-1. [Zusammenfassung](#Zusammenfassung)
-1. [Abschluss](#Abschluss)
+1. [Kapitel 1](#kapitel-1)
+1. [Kapitel 2](#kapitel-2)
+1. [Zusammenfassung](#zusammenfassung)
+1. [Abschluss](#abschluss)
 
 ## Kapitel 1
 
